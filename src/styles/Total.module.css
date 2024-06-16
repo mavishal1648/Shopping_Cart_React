@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--accent-color);
+    color: var(--primary-color);
+    padding: 1rem;
+}
+.container .buttonContainer{
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+}
+.buttonContainer button{
+    border: 2px solid black;
+    background: none;
+    color: white;
+    font-weight: 900;
+    font-size: 1.2rem;
+}
