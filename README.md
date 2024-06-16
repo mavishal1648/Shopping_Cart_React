@@ -1,12 +1,6 @@
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 Shopping Cart
+
+
 A simple shopping cart application built using React, demonstrating the use of React Hooks and Context API for state management. This project does not use any database.
 
 -> Overview
